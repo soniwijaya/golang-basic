@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello")
+	// params total string and error
+	n, _ := fmt.Println("Hello")
+	fmt.Println(n)
 }
-
